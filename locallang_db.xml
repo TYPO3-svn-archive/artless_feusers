@@ -6,7 +6,8 @@
 	</meta>
 	<data type="array">
 		<languageKey index="default" type="array">
-			<label index="pages.tx_artlessfeusers_owners">Owners</label>
+			<label index="pages.tx_artlessfeusers_owners">Owners:</label>
+			<label index="fe_users.tx_artlessfeusers_userpage">User page:</label>
 		</languageKey>
 	</data>
 </T3locallang>
