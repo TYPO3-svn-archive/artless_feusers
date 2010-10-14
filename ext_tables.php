@@ -15,6 +15,11 @@ $tempColumns = array(
 			'size' => 10,
 			'minitems' => 0,
 			'maxitems' => 100,
+			'wizards' => array(
+				'suggest' => array(
+					'type' => 'suggest',
+				),
+			),
 		)
 	),
 );
