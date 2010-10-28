@@ -14,8 +14,8 @@ $EM_CONF[$_EXTKEY] = array(
 	'title' => 'Artless FE Users',
 	'description' => '',
 	'category' => 'misc',
-	'author' => 'Dirk Reinbold',
-	'author_email' => 'typo3@codecosmetics.com',
+	'author' => 'Fabrizio Branca & Dirk Reinbold',
+	'author_email' => 'typo3@5thpart.com',
 	'shy' => '',
 	'dependencies' => 'cms',
 	'conflicts' => '',
@@ -37,6 +37,8 @@ $EM_CONF[$_EXTKEY] = array(
 		'conflicts' => array(
 		),
 		'suggests' => array(
+			'felogin' => '',
+			'cabag_loginas' => ''
 		),
 	),
 	'_md5_values_when_last_written' => 'a:10:{s:9:"ChangeLog";s:4:"16ad";s:10:"README.txt";s:4:"ee2d";s:12:"ext_icon.gif";s:4:"1bdc";s:14:"ext_tables.php";s:4:"21a1";s:14:"ext_tables.sql";s:4:"bb18";s:16:"locallang_db.xml";s:4:"d9c1";s:19:"doc/wizard_form.dat";s:4:"72a7";s:20:"doc/wizard_form.html";s:4:"1169";s:37:"static/artless_fe_users/constants.txt";s:4:"91ed";s:33:"static/artless_fe_users/setup.txt";s:4:"91ed";}',
